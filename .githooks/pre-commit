@@ -1,0 +1,6 @@
+#!/bin/sh
+# Atualiza a seção de histórico no README antes de concluir o commit.
+ROOT="$(git rev-parse --show-toplevel)"
+cd "$ROOT" || exit 1
+node scripts/update-readme-history.mjs
+git add README.md

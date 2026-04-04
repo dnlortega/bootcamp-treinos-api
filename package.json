@@ -4,7 +4,9 @@
   "description": "",
   "type": "module",
   "scripts": {
-    "dev": "tsx --watch src/index.ts"
+    "dev": "tsx --watch src/index.ts",
+    "prepare": "node scripts/ensure-git-hooks.mjs",
+    "readme:history": "node scripts/update-readme-history.mjs"
   },
   "engines": {
     "node": "24.X"
