@@ -32,13 +32,14 @@ O script `dev` sobe `src/index.ts` com **tsx** em modo watch.
 
 ## Histórico de commits (atualizado automaticamente)
 
-Esta lista é gerada pelo hook em `.githooks/pre-commit` sempre que você faz um commit (desde que os hooks estejam ativos — ver abaixo).
+Esta lista é gerada pelo hook em `.githooks/pre-commit` sempre que você faz um commit (desde que os hooks estejam ativos — ver abaixo). Como o hook roda **antes** do commit ser gravado, a linha do commit em curso só aparece no **próximo** commit (ou rode `pnpm readme:history` e faça um commit só do README).
 
 <!-- AUTO:COMMIT_HISTORY_START -->
 
-- `c82c7a2` chore:add eslint and prettier setup (5 minutes ago)
-- `e4505d7` chore: add node version to package.json (27 hours ago)
-- `02e057d` chole: add typescrip and tsx setup (27 hours ago)
+- `f23d8f4` docs: README com histórico e hooks de sincronização (51 minutes ago)
+- `c82c7a2` chore:add eslint and prettier setup (56 minutes ago)
+- `e4505d7` chore: add node version to package.json (28 hours ago)
+- `02e057d` chole: add typescrip and tsx setup (28 hours ago)
 
 <!-- AUTO:COMMIT_HISTORY_END -->
 
