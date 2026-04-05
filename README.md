@@ -36,11 +36,12 @@ Esta lista é gerada pelo hook em `.githooks/pre-commit` sempre que você faz um
 
 <!-- AUTO:COMMIT_HISTORY_START -->
 
-- `ca291f4` docs: nota sobre histórico e sincroniza lista (30 minutes ago)
-- `f23d8f4` docs: README com histórico e hooks de sincronização (82 minutes ago)
-- `c82c7a2` chore:add eslint and prettier setup (86 minutes ago)
-- `e4505d7` chore: add node version to package.json (29 hours ago)
-- `02e057d` chole: add typescrip and tsx setup (29 hours ago)
+- `33cff4c` feat: add fastify api (8 hours ago)
+- `ca291f4` docs: nota sobre histórico e sincroniza lista (8 hours ago)
+- `f23d8f4` docs: README com histórico e hooks de sincronização (9 hours ago)
+- `c82c7a2` chore:add eslint and prettier setup (9 hours ago)
+- `e4505d7` chore: add node version to package.json (2 days ago)
+- `02e057d` chole: add typescrip and tsx setup (2 days ago)
 
 <!-- AUTO:COMMIT_HISTORY_END -->
 
