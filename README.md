@@ -36,10 +36,11 @@ Esta lista é gerada pelo hook em `.githooks/pre-commit` sempre que você faz um
 
 <!-- AUTO:COMMIT_HISTORY_START -->
 
+- `01d58fd` chole: add zod and fastify-type-provider-zod setup (29 minutes ago)
 - `33cff4c` feat: add fastify api (8 hours ago)
-- `ca291f4` docs: nota sobre histórico e sincroniza lista (8 hours ago)
-- `f23d8f4` docs: README com histórico e hooks de sincronização (9 hours ago)
-- `c82c7a2` chore:add eslint and prettier setup (9 hours ago)
+- `ca291f4` docs: nota sobre histórico e sincroniza lista (9 hours ago)
+- `f23d8f4` docs: README com histórico e hooks de sincronização (10 hours ago)
+- `c82c7a2` chore:add eslint and prettier setup (10 hours ago)
 - `e4505d7` chore: add node version to package.json (2 days ago)
 - `02e057d` chole: add typescrip and tsx setup (2 days ago)
 
